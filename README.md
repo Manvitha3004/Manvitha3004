@@ -8,10 +8,7 @@
 I'm a Computer Science undergrad driven by curiosity and creativity in the world of AI & emerging tech.  
 I specialize in building smart systems using **LLMs**, creating scalable apps, and researching the future of **quantum-safe technologies**.
 
-- 🎓 Pursuing B.E. in CSE at SVCE, Bengaluru  
-- 🧠 Minor in Artificial Intelligence – VTU Online  
 - 🛠️ Building LLM agents, FastAPI backends, and quantum-safe blockchains  
-- 🏆 Hackathon & Research Paper Winner  
 - 🌱 Learning something new every day
 
 ---
@@ -41,14 +38,15 @@ I specialize in building smart systems using **LLMs**, creating scalable apps, a
 
 
 
-### 🏆 Achievements
+🌱 What I'm Exploring
+🧠 Building LLM agents using LangChain & LangGraph
+🔗 Learning blockchain with a focus on quantum resistance
+⚙️ Exploring DevOps workflows for AI-powered systems
+🧬 Combining AI with biology for smart health solutions
+🔐 Diving into cryptography, security & post-quantum systems
+🔭 Understanding the foundations of quantum computing
 
-- 🥈 2nd Place – IoT & AI Project Showcase  
-- 🥉 3rd Place – State-Level Paper Presentation  
-- 📄 Research Publication – *Cancer Biomarker Detection using Colorimetry Sensors*  
-- 🧠 Certifications – Infosys ML | GenAI Bootcamp | IR4.0 by TechSaksham
 
----
 
 ### 📫 Let's Connect
 
