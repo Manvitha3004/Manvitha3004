@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm B Manvitha</h1>
-<h3 align="center">🚀 Aspiring Engineer | 🤖 LLM Enthusiast | 🔐 Quantum-Tech Explorer | 💡 AI Problem Solver</h3>
+<h1 align="center">Hi there , I'm Manvitha</h1>
+<h3 align="center">🚀 Aspiring Engineer |  LLM Enthusiast | 🔐 Quantum-Tech Explorer | 💡 AI Problem Solver</h3>
 
 ---
 
@@ -7,10 +7,10 @@
 > I'm a passionate Computer Science undergrad, on a mission to **build intelligent systems** that **solve real-world problems** using the power of AI, LLMs, and quantum-safe technologies.
 
 - 🔍 Currently exploring **LLM orchestration**, **LangChain**, and **FastAPI**
-- 🧠 Building **legal chatbots**, **quantum-resistant blockchains**, and **intelligent agents**
-- 🛠️ Learning by doing: hackathons, coding challenges, research & real projects
-- 📚 Pursuing a minor in **Artificial Intelligence** from VTU Online
-- 💡 I believe that *code is the closest thing we have to magic* ✨
+- 🧠 Building **intelligent agents**
+- Learning by doing: hackathons, coding challenges, research & real projects
+- Pursuing a minor in **Artificial Intelligence** from VTU Online
+- I believe that *code is the closest thing we have to magic* ✨
 
 ---
 
@@ -26,21 +26,8 @@
 🛠️ Frameworks & Tools: React, Next.js, Node.js, LangGraph  
 🧠 AI/LLM Tech: Gemini API, Prompt Engineering, NLP, Transformers  
 📦 Databases: MongoDB, PostgreSQL  
-⚙️ Dev Envs: VS Code, PyCharm, Git, GitHub, IntelliJ
+⚙️ Dev Envs: VS Code, PyCharm, Git, GitHub
 
----
-
-### 💡 Featured Projects
-
-#### 🔎 Legal Assistant — LLM-based Legal Chatbot
-*Tech: FastAPI, Gemini API, LangChain*  
-> Created a legal chatbot that decodes complex legal language, summarizes documents, and provides jurisdiction-aware insights.
-
-#### 🔐 Quantum-Resistant Blockchain
-*Tech: TypeScript, SPHINCS+, Lattice-based Crypto*  
-> Developed a blockchain explorer leveraging **quantum-safe cryptographic algorithms** to secure future digital assets.
-
----
 
 ### 🏅 Achievements & Activities
 
