@@ -39,17 +39,7 @@ I specialize in building smart systems using **LLMs**, creating scalable apps, a
   <img src="https://streak-stats.demolab.com?user=Manvitha3004&theme=radical&hide_border=true" />
 </p>
 
----
 
-### 💡 Featured Projects
-
-🧾 **Legal Assistant – LLM-Powered Legal Chatbot**  
-*A smart chatbot that interprets legal queries, summarizes documents, and offers jurisdiction-aware responses.*
-
-🔐 **Quantum-Resistant Blockchain Explorer**  
-*Built a blockchain visualization tool using SPHINCS+ and lattice cryptography for post-quantum transaction tracking.*
-
----
 
 ### 🏆 Achievements
 
