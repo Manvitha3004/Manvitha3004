@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <span style="color:#f06292;">B Manvitha</span></h1>
+<h1 align="center">Hey👋, I'm <span style="color:#f06292;">Manvitha</span></h1>
 <h3 align="center">AI Enthusiast | Full-Stack Explorer | Quantum Tech Learner | LLM Builder</h3>
 
 ---
