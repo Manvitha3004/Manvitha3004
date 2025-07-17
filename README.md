@@ -28,6 +28,18 @@
 📦 Databases: MongoDB, PostgreSQL  
 ⚙️ Dev Envs: VS Code, PyCharm, Git, GitHub
 
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  
+  ![Manvitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manvitha3004&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvitha3004&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Manvitha3004&theme=radical&hide_border=true)
+
+</div>
+
 
 ### 🏅 Achievements & Activities
 
