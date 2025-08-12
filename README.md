@@ -3,17 +3,17 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
 I'm a Computer Science undergrad driven by curiosity and creativity in the world of AI & emerging tech.  
 I specialize in building smart systems using **LLMs**, creating scalable apps, and exploring the future of **quantum-safe technologies**.
 
-- 🛠️ Building LLM agents, FastAPI backends, and quantum-safe blockchains  
-- 🌱 Learning something new every day
+- Building LLM agents, FastAPI backends, and quantum-safe blockchains  
+- Learning something new every day
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
@@ -40,18 +40,18 @@ I specialize in building smart systems using **LLMs**, creating scalable apps, a
 
 ---
 
-### 🌱 What I'm Exploring
+### What I'm Exploring
 
-- 🧠 Building LLM agents using LangChain & LangGraph  
-- 🔗 Learning blockchain with a focus on quantum resistance  
-- ⚙️ Exploring DevOps workflows for AI-powered systems  
-- 🧬 Combining AI with biology for smart health solutions  
-- 🔐 Diving into cryptography, security & post-quantum systems  
-- 🔭 Understanding the foundations of quantum computing  
+- Building LLM agents using LangChain & LangGraph  
+- Learning blockchain with a focus on quantum resistance  
+- Exploring DevOps workflows for AI-powered systems  
+- Combining AI with biology for smart health solutions  
+- Diving into cryptography, security & post-quantum systems  
+- Understanding the foundations of quantum computing  
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manvitha-reddy-812026256/">
@@ -66,12 +66,12 @@ I specialize in building smart systems using **LLMs**, creating scalable apps, a
 </p>
 
 <p align="center">
-  📧 manvithareddy3004@gmail.com
+  manvithareddy3004@gmail.com
 </p>
 
 ---
 
-### ✨ Inspiration
+### Inspiration
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F06292&center=true&width=1000&lines=Stay+curious,+build+boldly,+and+let+your+code+tell+your+story." alt="Typing SVG" />
