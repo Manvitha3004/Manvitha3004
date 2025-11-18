@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm <span style="color:#f06292;">Manvitha</span></h1>
-<h3 align="center">Research-Oriented Developer | AI + LLM Enthusiast | Quantum Learner | Builder of Smart Systems</h3>
+<h3 align="center">Research-Oriented Developer | AI + LLM Enthusiast | Quantum Learner | Space Technology </h3> 
 
 ---
 
