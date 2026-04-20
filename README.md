@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manvitha%20Reddy&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Research-Oriented%20Developer%20%7C%20AI%20%2B%20LLM%20Enthusiast%20%7C%20Quantum%20Learner%20%7C%20Space%20Tech&descAlignY=58&descSize=16" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F06292&center=true&vCenter=true&width=800&lines=Building+LLM+Agents+%F0%9F%A4%96;Exploring+Quantum-Safe+Systems+%E2%9A%9B%EF%B8%8F;Stay+curious%2C+build+boldly+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F06292&center=true&vCenter=true&width=800&lines=Building+LLM+Agents;Exploring+Quantum-Safe+Systems+;Stay+curious%2C+build+boldly" alt="Typing SVG" />
 
 <br/>
 
