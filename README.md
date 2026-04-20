@@ -20,7 +20,7 @@
 
 ---
 
-## 🌌 About Me
+## About Me
 
 ```python
 class Manvitha:
@@ -44,29 +44,29 @@ class Manvitha:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / LLM
+### AI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-00BFA5?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### ⚡ Frameworks & Backend
+### Frameworks & Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-005F73?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Databases & Cloud
+### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -76,7 +76,7 @@ class Manvitha:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -104,24 +104,24 @@ class Manvitha:
 
 ---
 
-## 🔭 What I'm Exploring
+## What I'm Exploring
 
 <div align="center">
 
-| 🧠 Domain | 🔧 Focus Area |
+| Domain | 🔧 Focus Area |
 |-----------|--------------|
-| 🤖 AI Agents | LangChain, LangGraph, Autonomous pipelines |
-| ⛓️ Blockchain | Quantum-resistant cryptography & smart contracts |
-| 🧬 AI × Biology | Smart health diagnostics & biosignal analysis |
-| 🛡️ Security | Post-quantum systems, lattice-based crypto |
-| ⚛️ Quantum Computing | Foundations, Qiskit, quantum circuits |
-| 🚀 DevOps for AI | MLOps, CI/CD for LLM-powered systems |
+| AI Agents | LangChain, LangGraph, Autonomous pipelines |
+| Blockchain | Quantum-resistant cryptography & smart contracts |
+| AI × Biology | Smart health diagnostics & biosignal analysis |
+| Security | Post-quantum systems, lattice-based crypto |
+| Quantum Computing | Foundations, Qiskit, quantum circuits |
+| DevOps for AI | MLOps, CI/CD for LLM-powered systems |
 
 </div>
 
 ---
 
-## 🌠 3D Skill Sphere
+## 3D Skill Sphere
 
 <div align="center">
 
@@ -131,7 +131,7 @@ class Manvitha:
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```mermaid
 mindmap
@@ -156,7 +156,7 @@ mindmap
 
 ---
 
-## 💡 Inspiration
+## Inspiration
 
 <div align="center">
 
