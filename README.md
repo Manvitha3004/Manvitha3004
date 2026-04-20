@@ -102,18 +102,6 @@ class Manvitha:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manvitha3004/Manvitha3004/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manvitha3004/Manvitha3004/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Manvitha3004/Manvitha3004/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> ⚙️ **Setup the snake:** Add a GitHub Actions workflow to your repo at `.github/workflows/snake.yml` — see instructions below ↓
-</div>
-
 ---
 
 ## 🔭 What I'm Exploring
