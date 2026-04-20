@@ -14,8 +14,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Manvithareddy30/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manvithareddy3004@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=Manvitha3004&style=for-the-badge&color=f06292&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
